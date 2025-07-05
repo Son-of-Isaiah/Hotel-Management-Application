@@ -2,11 +2,12 @@
 * Hotel Management Application Group Project for the Course COE 254
 # Group Members:
 1. Vince Churchill Ankrah
-2. Uncle Jojo Ochir
-3. Gawu-Mensah Sidney Selorm Kofi
-4. Essien Ernest Kojo
-5. Michael Ofori Twum
-6. Iddriss Hamidu Mustapha
-7. Essiedu Daniel
-8. Mark Sivan Tamakloe
-9. Awuku Samuel Akoto
+2. Richard Arthur Ayomah
+3. Uncle Jojo Ochir
+4. Gawu-Mensah Sidney Selorm Kofi
+5. Essien Ernest Kojo
+6. Michael Ofori Twum
+7. Iddriss Hamidu Mustapha
+8. Essiedu Daniel
+9. Mark Sivan Tamakloe
+10. Awuku Samuel Akoto
